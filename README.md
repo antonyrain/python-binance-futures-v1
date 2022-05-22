@@ -1,5 +1,5 @@
 # python-binance-futures-v1
-...with python-binance library...:
+with python-binance library...:
 
 https://github.com/sammchardy/python-binance
 
